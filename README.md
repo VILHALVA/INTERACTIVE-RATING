@@ -1,8 +1,8 @@
 # INTERACTIVE RATING 
 😎ESTE PROJETO É UM EXEMPLO DE COMPONENTE DE AVALIAÇÃO INTERATIVO CRIADO COM HTML, CSS E JAVASCRIPT.
 
-<img src="./IMAGENS/FOTO_1.jpg" align="center" width="500"> <br>
-<img src="./IMAGENS/FOTO_2.jpg" align="center" width="500"> <br>
+<img src="./IMAGENS/FOTO_01.jpg" align="center" width="500"> <br>
+<img src="./IMAGENS/FOTO_02.jpg" align="center" width="500"> <br>
 
 ## DESCRIÇÃO:
 Este projeto é um exemplo de **componente de avaliação interativo** criado com **HTML**, **CSS** e **JavaScript**. Ele permite que os usuários forneçam uma nota de 1 a 5, e em seguida exibe uma mensagem de agradecimento personalizada com base na nota selecionada.
